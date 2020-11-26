@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Rob 👋
+I'd name myself 🤖 a scripting guy 🤖, rather than a developer, but I like to learn new languages. This is how I challenge myself.
 
-<!--
-**robdy/robdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently I'm playing with React and Gatsby in 📰 [my blog](https://robdy.github.io) 📰.
 
-Here are some ideas to get you started:
+My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365 and PowerShell
 
-- 🔭 I’m currently working on ...
+### Social links
+- 🌍 [Main website](https://dyjas.cc)
+- 📰 [Blog](https://robdy.github.io)
+- 💻 [Stack Overflow](https://stackoverflow.com/users/9902555/robdy?tab=profile)
+- 🐦 [Twitter](https://twitter.com/robdyy)
+- 💼 [LinkedIn](https://linkedin.com/in/robertdyjas)
+<!--- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+### Misc
+- 💬 Ask me about PowerShell
+- 📫 How to reach me: tag 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
