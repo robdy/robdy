@@ -7,7 +7,7 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 
 ### Social links
 - 🌍 [Main website](https://dyjas.cc)
-- 📰 [Blog](https://robdy.github.io)
+- 📰 [Blog](https://robdy.github.io) and its [repo](https://github.com/robdy/robdy.github.io)
 - 💻 [Stack Overflow](https://stackoverflow.com/users/9902555/robdy?tab=profile)
 - 🐦 [Twitter](https://twitter.com/robdyy)
 - 💼 [LinkedIn](https://linkedin.com/in/robertdyjas)
