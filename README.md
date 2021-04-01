@@ -1,7 +1,7 @@
 ### Hi there, I'm Rob 👋
 I'd name myself 🤖 a scripting guy 🤖, rather than a developer, but I like to learn new languages. This is how I challenge myself.
 
-🎓 Currently I'm playing with React and Gatsby in 📰 [my blog](https://robdy.github.io) 📰.
+🎓 Currently I'm playing with React and Gatsby in 📰 [my blog](https://robdy.io) 📰.
 
 My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365 and PowerShell
 
