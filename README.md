@@ -5,7 +5,7 @@ I'd name myself 🤖 a scripting guy 🤖, rather than a developer, but I like t
 
 My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365 and PowerShell
 
-### Social links
+### 🔗 Social links
 - 🌍 [Main website](https://dyjas.cc)
 - 📰 [Blog](https://robdy.io) and its [repo](https://github.com/robdy/robdy.github.io)
 - 💻 [Stack Overflow](https://stackoverflow.com/users/9902555/robdy?tab=profile)
@@ -23,7 +23,8 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 - ⚡ Fun fact: ...
 -->
 
-### Newest posts
+### ✍ Newest posts
+
 <!-- feed start -->
 - Mar 09 📰 [Teams PowerShell datamining - Feb 2021](https://robdy.io/teams-powershell-datamining-feb-2021/)
 - Feb 21 📰 [CsTeamsAcsFederationConfiguration cmdlets](https://robdy.io/csteamsacsfederationconfiguration-cmdlets/)
@@ -31,3 +32,6 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 - Feb 13 📰 [AddDays with Format for dates](https://robdy.io/adddays-with-format-for-dates/)
 - Feb 04 📰 [Hover effect on a box with content in Power Apps](https://robdy.io/hover-effect-on-a-box-with-content/)
 <!-- feed end -->
+
+> Generated with [sarisia/actions-readme-feed](https://github.com/marketplace/actions/actions-readme-feed) & GitHub Actions
+
