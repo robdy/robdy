@@ -22,3 +22,12 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Newest posts
+<!-- feed start -->
+- 📰 [Teams PowerShell datamining - Feb 2021](https://robdy.io/teams-powershell-datamining-feb-2021/)
+- 📰 [CsTeamsAcsFederationConfiguration cmdlets](https://robdy.io/csteamsacsfederationconfiguration-cmdlets/)
+- 📰 [Get all available user numbers in Calling Plans](https://robdy.io/all-available-numbers-calling-plan/)
+- 📰 [AddDays with Format for dates](https://robdy.io/adddays-with-format-for-dates/)
+- 📰 [Hover effect on a box with content in Power Apps](https://robdy.io/hover-effect-on-a-box-with-content/)
+<!-- feed end -->
