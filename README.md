@@ -26,11 +26,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 ### ✍ Newest posts
 
 <!-- feed start -->
+- Apr 02 📰 [Roles in Teams Live Events](https://robdy.io/roles-in-teams-live-events/)
 - Mar 09 📰 [Teams PowerShell datamining - Feb 2021](https://robdy.io/teams-powershell-datamining-feb-2021/)
 - Feb 21 📰 [CsTeamsAcsFederationConfiguration cmdlets](https://robdy.io/csteamsacsfederationconfiguration-cmdlets/)
 - Feb 17 📰 [Get all available user numbers in Calling Plans](https://robdy.io/all-available-numbers-calling-plan/)
 - Feb 13 📰 [AddDays with Format for dates](https://robdy.io/adddays-with-format-for-dates/)
-- Feb 04 📰 [Hover effect on a box with content in Power Apps](https://robdy.io/hover-effect-on-a-box-with-content/)
 <!-- feed end -->
 
 > Generated with [sarisia/actions-readme-feed](https://github.com/marketplace/actions/actions-readme-feed) & GitHub Actions
