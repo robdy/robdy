@@ -23,8 +23,6 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 - ⚡ Fun fact: ...
 -->
 
-![Blog logo](./og-image-panoramic.png)
-
 ### ✍ Newest posts
 
 <!-- feed start -->
@@ -35,5 +33,8 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 - Feb 13 📰 [AddDays with Format for dates](https://robdy.io/adddays-with-format-for-dates/)
 <!-- feed end -->
 
-> Generated with [sarisia/actions-readme-feed](https://github.com/marketplace/actions/actions-readme-feed) & GitHub Actions
+![Blog logo](og-image-panoramic.png)
 
+---
+ 
+> Posts list generated with [sarisia/actions-readme-feed](https://github.com/marketplace/actions/actions-readme-feed) & GitHub Actions
