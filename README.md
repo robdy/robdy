@@ -23,6 +23,8 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 - ⚡ Fun fact: ...
 -->
 
+![Blog logo](./og-image-panoramic.png)
+
 ### ✍ Newest posts
 
 <!-- feed start -->
