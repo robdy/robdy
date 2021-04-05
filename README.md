@@ -37,4 +37,4 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 
 ---
  
-> Posts list generated with [sarisia/actions-readme-feed](https://github.com/marketplace/actions/actions-readme-feed) & GitHub Actions
+<sup> Posts list generated with [sarisia/actions-readme-feed](https://github.com/marketplace/actions/actions-readme-feed) & GitHub Actions</sup>
