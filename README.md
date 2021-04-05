@@ -1,3 +1,5 @@
+![Header](Twitter.jpeg)
+
 ### Hi there, I'm Rob 👋
 I'd name myself 🤖 a scripting guy 🤖, rather than a developer, but I like to learn new languages. This is how I challenge myself.
 
