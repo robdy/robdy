@@ -39,6 +39,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 - Apr 02 📰 [Roles in Teams Live Events](https://robdy.io/roles-in-teams-live-events/)
 - Mar 09 📰 [Teams PowerShell datamining - Feb 2021](https://robdy.io/teams-powershell-datamining-feb-2021/)
 <!-- feed end -->
+
+###  External posts
+
+<!-- ata start -->
+<!-- ata end -->
  
 <!--- Posts list generated with [sarisia/actions-readme-feed](https://github.com/marketplace/actions/actions-readme-feed) & GitHub Actions --->
 
