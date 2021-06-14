@@ -43,6 +43,8 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 ###  External posts
 
 <!-- ata start -->
+- Jun 09 📰 [How to Set up the Microsoft Teams Machine-Wide Installer](https://adamtheautomator.com/how-to-set-up-the-microsoft-teams-machine-wide-installer/)
+<!-- ata end-->
 <!-- ata end -->
  
 <!--- Posts list generated with [sarisia/actions-readme-feed](https://github.com/marketplace/actions/actions-readme-feed) & GitHub Actions --->
