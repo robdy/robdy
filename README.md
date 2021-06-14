@@ -40,7 +40,7 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 - Mar 09 📰 [Teams PowerShell datamining - Feb 2021](https://robdy.io/teams-powershell-datamining-feb-2021/)
 <!-- feed end -->
 
-###  External posts
+### 🎙 External posts
 
 <!-- ata start -->
 - Jun 09 📰 [How to Set up the Microsoft Teams Machine-Wide Installer](https://adamtheautomator.com/how-to-set-up-the-microsoft-teams-machine-wide-installer/)
