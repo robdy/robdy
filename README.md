@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Aug 12 📰 [Teams PowerShell datamining - Aug 2021](https://robdy.io/teams-powershell-datamining-aug-2021/)
 - Jul 10 📰 [Webinar option missing in Teams](https://robdy.io/webinar-option-missing-in-teams/)
 - Jun 17 📰 [Export message from OWA](https://robdy.io/export-message-from-owa/)
 - Jun 02 📰 [Signing scripts in bulk](https://robdy.io/signing-scripts-in-bulk/)
 - Apr 17 📰 [Automating Call Queue and Auto Attendant onboarding](https://robdy.io/automating-call-queues-and-auto-attendant-onboarding/)
-- Apr 06 📰 [Teams PowerShell datamining - Apr 2021](https://robdy.io/teams-powershell-datamining-apr-2021/)
 <!-- feed end -->
 
 ### 🎙 External posts
