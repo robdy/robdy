@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Nov 21 📰 [MS-700 materials](https://robdy.io/ms-700/)
 - Oct 20 📰 [Teams policies assigned to user](https://robdy.io/teams-policies-assigned-to-user/)
 - Oct 01 📰 [Group AD objects by OU](https://robdy.io/group-ad-objects-by-ou/)
 - Aug 12 📰 [Teams PowerShell datamining - Aug 2021](https://robdy.io/teams-powershell-datamining-aug-2021/)
 - Jul 10 📰 [Webinar option missing in Teams](https://robdy.io/webinar-option-missing-in-teams/)
-- Jun 17 📰 [Export message from OWA](https://robdy.io/export-message-from-owa/)
 <!-- feed end -->
 
 ### 🎙 External posts
