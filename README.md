@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Jan 24 📰 [How to find cmdlet in the entire folder](https://robdy.io/find-cmdlet-in-folder/)
 - Jan 22 📰 [Get all messages from message trace](https://robdy.io/message-trace-wrapper/)
 - Jan 17 📰 [6 ways to clean up Outlook mailbox](https://robdy.io/outlook-mailbox-clean-up/)
 - Jan 07 📰 [Teams PowerShell datamining - Jan 2022](https://robdy.io/teams-powershell-datamining-jan-2022/)
 - Dec 09 📰 [CsTeamsFilesPolicy cmdlets](https://robdy.io/csteamsfilespolicy-cmdlets/)
-- Nov 29 📰 [How to force signing in to specific domain in Outlook Web App](https://robdy.io/how-to-force-signing-in-to-specific-domain-in-outlook-web-app/)
 <!-- feed end -->
 
 ### 🎙 External posts
