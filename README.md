@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Feb 22 📰 [Teams PowerShell datamining - Feb 2022](https://robdy.io/teams-powershell-datamining-feb-2022/)
 - Feb 20 📰 [Managing Auto Attendant general settings with PowerShell](https://robdy.io/manage-auto-attendant-general/)
 - Jan 31 📰 [Microsoft 365 Online Archive](https://robdy.io/m365-online-archive/)
 - Jan 24 📰 [How to find cmdlet in the entire folder](https://robdy.io/find-cmdlet-in-folder/)
 - Jan 22 📰 [Get all messages from message trace](https://robdy.io/message-trace-wrapper/)
-- Jan 17 📰 [6 ways to clean up Outlook mailbox](https://robdy.io/outlook-mailbox-clean-up/)
 <!-- feed end -->
 
 ### 🎙 External posts
