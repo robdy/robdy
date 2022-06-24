@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Jun 24 📰 [Teams PowerShell datamining - June 2022](https://robdy.io/teams-powershell-datamining-june-2022/)
 - Jun 06 📰 [How to clear Teams cache with PowerShell](https://robdy.io/how-to-clear-teams-cache-with-powershell/)
 - May 09 📰 [Setting debug for Microsoft 365 CLI](https://robdy.io/debugging-cli-microsoft365/)
 - Apr 21 📰 [Verifying MX Record TTL for the list of domains](https://robdy.io/verifying-mx-record-ttl/)
 - Feb 22 📰 [Teams PowerShell datamining - Feb 2022](https://robdy.io/teams-powershell-datamining-feb-2022/)
-- Feb 20 📰 [Managing Auto Attendant general settings with PowerShell](https://robdy.io/manage-auto-attendant-general/)
 <!-- feed end -->
 
 ### 🎙 External posts
