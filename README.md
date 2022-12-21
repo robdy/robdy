@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Dec 21 📰 [My groups missing in MS Forms](https://robdy.io/my-groups-missing-ms-forms/)
 - Dec 05 📰 [Azure AD Access Review description fields](https://robdy.io/aad-access-review-descriptions/)
 - Nov 22 📰 [Teams PowerShell datamining - November 2022](https://robdy.io/teams-powershell-datamining-nov-2022/)
 - Jul 23 📰 [How to pull Notion site via PowerShell](https://robdy.io/how-to-pull-notion-site-via-powershell/)
 - Jul 20 📰 [Moving Viva Insights emails to a folder](https://robdy.io/moving-viva-insights-emails-to-a-folder/)
-- Jul 01 📰 [Force preview in Teams in browser](https://robdy.io/force-preview-in-teams-in-browser/)
 <!-- feed end -->
 
 ### 🎙 External posts
