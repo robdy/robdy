@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Mar 14 📰 [Dealing with multiple PnP SharePoint connections](https://robdy.io/multiple-pnp-connections/)
 - Feb 24 📰 [Teams PowerShell datamining - Feb 2023](https://robdy.io/teams-powershell-datamining-feb-2023/)
 - Feb 09 📰 [Retirement of Teams Wiki - everything you need to know](https://robdy.io/teams-wiki-retirement/)
 - Dec 21 📰 [My groups missing in MS Forms](https://robdy.io/my-groups-missing-ms-forms/)
 - Dec 05 📰 [Azure AD Access Review description fields](https://robdy.io/aad-access-review-descriptions/)
-- Nov 22 📰 [Teams PowerShell datamining - November 2022](https://robdy.io/teams-powershell-datamining-nov-2022/)
 <!-- feed end -->
 
 ### 🎙 External posts
