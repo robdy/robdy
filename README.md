@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
-- Mar 23 📰 [3 ways to download media from the PowerApps app](https://robdy.io/get-media-powerapps/)
-- Mar 14 📰 [Dealing with multiple PnP SharePoint connections](https://robdy.io/multiple-pnp-connections/)
-- Feb 24 📰 [Teams PowerShell datamining - Feb 2023](https://robdy.io/teams-powershell-datamining-feb-2023/)
-- Feb 09 📰 [Retirement of Teams Wiki - everything you need to know](https://robdy.io/teams-wiki-retirement/)
-- Dec 21 📰 [My groups missing in MS Forms](https://robdy.io/my-groups-missing-ms-forms/)
+- Mar 23 📰 [3 ways to download media from the PowerApps app](https://robdy.io/2023-03-23-get-media-powerapps/)
+- Mar 14 📰 [Dealing with multiple PnP SharePoint connections](https://robdy.io/2023-03-14-multiple-pnp-connections/)
+- Feb 24 📰 [Teams PowerShell datamining - Feb 2023](https://robdy.io/2023-02-24-teams-powershell-datamining-feb-2023/)
+- Feb 09 📰 [Retirement of Teams Wiki - everything you need to know](https://robdy.io/2023-02-09-teams-wiki-retirement/)
+- Dec 21 📰 [My groups missing in MS Forms](https://robdy.io/2022-12-21-my-groups-missing-ms-forms/)
 <!-- feed end -->
 
 ### 🎙 External posts
