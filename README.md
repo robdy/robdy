@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Sep 21 📰 [Types of SharePoint email notification](https://robdy.io/shp-notification-types/)
 - Sep 16 📰 [Teams PowerShell datamining - September 2023](https://robdy.io/teams-powershell-datamining-sep-2023/)
 - Aug 10 📰 [How to check applied roles in Purview](https://robdy.io/purview-applied-role/)
 - Aug 09 📰 [Teams PowerShell datamining - August 2023](https://robdy.io/teams-powershell-datamining-aug-2023/)
 - Jul 13 📰 [Teams PowerShell datamining - July 2023](https://robdy.io/teams-powershell-datamining-jul-2023/)
-- Mar 23 📰 [3 ways to download media from the PowerApps app](https://robdy.io/get-media-powerapps/)
 <!-- feed end -->
 
 ### 🎙 External posts
