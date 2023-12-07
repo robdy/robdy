@@ -33,11 +33,11 @@ My main areas of expertise is Microsoft Teams, Skype for Business, Microsoft 365
 [![Blog logo](og-image-panoramic.png)](https://robdy.io)
 
 <!-- feed start -->
+- Dec 07 📰 [Filtering Teams users by policy](https://robdy.io/teams-users-by-policy/)
 - Nov 23 📰 [3 ways to clean up Service Health email](https://robdy.io/cleanup-service-health/)
 - Oct 03 📰 [All about Town Halls in Microsoft Teams](https://robdy.io/teams-town-halls/)
 - Sep 27 📰 [Find Graph user by email address](https://robdy.io/graph-user-by-email/)
 - Sep 21 📰 [Types of SharePoint email notification](https://robdy.io/shp-notification-types/)
-- Sep 16 📰 [Teams PowerShell datamining - September 2023](https://robdy.io/teams-powershell-datamining-sep-2023/)
 <!-- feed end -->
 
 ### 🎙 External posts
